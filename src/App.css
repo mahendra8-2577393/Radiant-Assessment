@@ -1,0 +1,56 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    /* overflow-x: hidden; */
+    scroll-behavior: smooth;
+   
+}
+
+.custom
+{
+  background-color: rgba(243, 249, 255, 1);
+  border-radius: 0px, 0px, 12px, 12px;
+}
+
+.btn
+{
+  width: 97px;
+  height: 52px;
+  border: 1px solid blue;
+  border-radius: 0px 12px 12px 0px;
+}
+
+.color
+{
+  color: rgba(75, 86, 101, 1);
+}
+
+.color1
+{
+   background-color: rgba(255, 119, 36, 1);
+   border-radius: 0px 8px 8px 0px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+  color: white;
+  gap: 8px;
+  margin-top: -40px;
+
+}
+
+.fig
+{
+  color: rgba(98, 110, 121, 1);
+}
+
+.upper
+{
+  color: rgba(75, 86, 101, 1);
+}
+
+.upper1
+{
+  color: rgba(92, 104, 116, 1);
+
+}

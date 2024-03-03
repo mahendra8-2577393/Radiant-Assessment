@@ -1,0 +1,10 @@
+.bg-search {
+    background-image: url('../images/search.png'); /* Adjust the path based on your project structure */
+    background-repeat: no-repeat;
+    background-size: 24px 24px;
+    background-position: 9px 5px;   /* Add any additional styles you need */
+  }
+  body{
+    font-family: inter;
+  }
+  
